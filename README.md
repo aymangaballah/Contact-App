@@ -18,6 +18,7 @@
 ## Add Contact
 * Add name 
 * Add phone 
+### If New Contact already exist that can't be add it again
 
 ![addpage](https://user-images.githubusercontent.com/88752412/168163500-95210c48-c7d6-4e9c-9bfa-83b456814113.png) </br></br></br></br>
 
